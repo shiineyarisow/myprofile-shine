@@ -1,0 +1,35 @@
+.shne{
+    color:rgb(215, 172, 0);  margin-left: 20px;
+    
+}
+.geedi{
+    color: green;
+}
+li[value=""]{
+
+}
+.muhiim{
+    color: rgb(235, 14, 172)
+}
+.gudaha{
+    color: rgb(212, 61, 6);
+    font-weight: 200;
+}
+.x{
+    color: rgb(57, 2, 144);
+}
+.heading{
+    color: blueviolet;
+}
+.gudo{
+    font-size:x-large;
+    font-weight:lighter;
+    color: rgb(237, 152, 7);
+    
+}
+.had{
+    color: rgb(253, 145, 4);
+    background-color: rgb(8, 8, 153);
+    text-align: center;
+}
+
