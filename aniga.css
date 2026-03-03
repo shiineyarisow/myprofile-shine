@@ -3,33 +3,54 @@
     
 }
 .geedi{
-    color: green;
+    color:#00008b;
+    margin-left: 20px;
+    list-style-position:inside;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
 }
 li[value=""]{
 
 }
 .muhiim{
-    color: rgb(235, 14, 172)
+    color:#BF4646;
 }
 .gudaha{
-    color: rgb(212, 61, 6);
+    color: #084f5d;
     font-weight: 200;
 }
 .x{
-    color: rgb(57, 2, 144);
+    color: #00008b
 }
 .heading{
-    color: blueviolet;
+    color: #BF4646;
+    text-align: center;
+    margin-top:0%;
+    margin-bottom:0%;
 }
 .gudo{
     font-size:x-large;
     font-weight:lighter;
-    color: rgb(237, 152, 7);
+    color:#7EACB5
+
+
     
 }
 .had{
-    color: rgb(253, 145, 4);
-    background-color: rgb(8, 8, 153);
+    color: #fcffff;
+    background-color:#BF4646;
     text-align: center;
+    margin-top: -10px;
+    margin-right: -8px;
+    margin-left: -8px;
+    font-family: 'Times New Roman', Times, serif;
 }
+.sawir{
+    width:350px;
+    height: -150px;
+    max-width:fit-content;
+    max-height:fit-content;
+    object-fit:contain;
+    object-position:center;
+    margin-left:70px;
 
+}
